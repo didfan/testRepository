@@ -1,1 +1,1 @@
-code for geo-authorization
+code for geo-authorization 127.0.0.1
